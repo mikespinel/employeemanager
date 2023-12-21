@@ -1,0 +1,26 @@
+[
+  {
+    "email":"daniel@gatarrays.com",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"JavaScript",
+    "name":"Daniel Craig",
+    "phone":"4570090332"
+
+  },
+  {
+    "email":"dave@gatarrays.com",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png",
+    "jobTitle":"Java",
+    "name":"Daniel Craig",
+    "phone":"4570090332"
+
+  },
+  {
+    "email":"christine@gatarrays.com",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle":"UX/UI",
+    "name":"Christine Smith",
+    "phone":"4570090332"
+
+  }
+]
